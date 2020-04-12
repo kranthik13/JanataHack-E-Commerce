@@ -1,2 +1,9 @@
 # JanataHack-E-Commerce
-My solution for JanataHack E-Commerce on AnalyticsVidhya which ranked #5.
+My solution for JanataHack E-Commerce on AnalyticsVidhya.
+
+
+This Solution ranked : 
+
+    - Public LB : #7
+  
+    - Private LB : TBD
