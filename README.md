@@ -6,4 +6,4 @@ This Solution ranked :
 
     - Public LB : #8
   
-    - Private LB : TBD
+    - Private LB : #5
